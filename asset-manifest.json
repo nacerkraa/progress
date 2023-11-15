@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/progress/static/css/main.99f4e07a.css",
+    "main.js": "/progress/static/js/main.92bdb9b6.js",
+    "index.html": "/progress/index.html",
+    "main.99f4e07a.css.map": "/progress/static/css/main.99f4e07a.css.map",
+    "main.92bdb9b6.js.map": "/progress/static/js/main.92bdb9b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f4e07a.css",
+    "static/js/main.92bdb9b6.js"
+  ]
+}
